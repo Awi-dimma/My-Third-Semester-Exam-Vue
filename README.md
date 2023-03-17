@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### vercel link to hosted app
+https://my-third-semester-exam-vue.vercel.app/
